@@ -1,0 +1,724 @@
+city	name	county
+"aberdeen, sd"	"aberdesd"	130
+"aberdeen, wa"	"aberdewa"	270
+"adrian, mi"	"adrianmi"	910
+"akron, oh"	"akronoh"	1530
+"alameda, ca"	"alamedca"	10
+"albany, ny"	"albanyny"	10
+"albert lea, mn"	"albertmn"	470
+"albuquerque, nm"	"albuqunm"	10
+"alhambra, ca"	"alhambca"	370
+"aliquippa, pa"	"aliquipa"	70
+"allentown, pa"	"allentpa"	770
+"alliance, oh"	"allianoh"	1510
+"alpena, mi"	"alpenami"	70
+"alton, il"	"altonil"	1190
+"altoona, pa"	"altoonpa"	130
+"ambridge, pa"	"ambridpa"	70
+"ames, ia"	"amesia"	1690
+"amsterdam, ny"	"amsterny"	570
+"anaconda, mt"	"anaconmt"	230
+"anaheim, ca"	"anaheica"	590
+"anderson, in"	"andersin"	950
+"annapolis, md"	"annapomd"	30
+"ann arbor, mi"	"annarbmi"	1610
+"ansonia, ct"	"ansonict"	90
+"appleton, wi"	"appletwi"	870
+"arnold, pa"	"arnoldpa"	1290
+"asbury park, nj"	"asburynj"	250
+"ashland, oh"	"ashlanoh"	50
+"ashland, wi"	"ashlanwi"	30
+"ashtabula, oh"	"ashtaboh"	70
+"astoria, or"	"astorior"	70
+"atchison, ks"	"atchisks"	50
+"atlantic city, nj"	"atlantnj"	10
+"attleboro, ma"	"attlebma"	50
+"auburn, me"	"auburnme"	10
+"auburn, ny"	"auburnny"	110
+"augusta, me"	"augustme"	110
+"aurora, il"	"aurorail"	890
+"austin, mn"	"austinmn"	990
+"bakersfield, ca"	"bakersca"	290
+"baltimore, md"	"baltimmd"	5100
+"bangor, me"	"bangorme"	190
+"barberton, oh"	"barberoh"	1530
+"barre, vt"	"barrevt"	230
+"batavia, ny"	"bataviny"	370
+"battle creek, mi"	"battlemi"	250
+"bay city, mi"	"baycitmi"	170
+"bayonne, nj"	"bayonnnj"	170
+"beacon, ny"	"beaconny"	270
+"beatrice, ne"	"beatrine"	670
+"beaver falls, pa"	"beaverpa"	70
+"bedford, in"	"bedforin"	930
+"bellaire, oh"	"bellaioh"	130
+"belleville, il"	"bellevil"	1630
+"belleville, nj"	"bellevnj"	130
+"bellevue, pa"	"bellevpa"	30
+"bellingham, wa"	"bellinwa"	730
+"beloit, wi"	"beloitwi"	1050
+"bennington, vt"	"benninvt"	30
+"benton harbor, mi"	"bentonmi"	210
+"berkeley, ca"	"berkelca"	10
+"berlin, nh"	"berlinnh"	70
+"berwick, pa"	"berwicpa"	370
+"berwyn, il"	"berwynil"	310
+"bethlehem, pa"	"bethlepa"	950
+"bethlehem, pa"	"bethlepa"	770
+"beverly hills, ca"	"beverlca"	370
+"beverly, ma"	"beverlma"	90
+"biddeford, me"	"biddefme"	310
+"billings, mt"	"billinmt"	1110
+"binghamton, ny"	"binghany"	70
+"bismarck, nd"	"bismarnd"	150
+"bloomfield, nj"	"bloomfnj"	130
+"bloomington, il"	"bloomiil"	1130
+"bloomington, in"	"bloomiin"	1050
+"blue island, il"	"blueisil"	310
+"boone, ia"	"booneia"	150
+"boston, ma"	"bostonma"	250
+"boulder, co"	"bouldeco"	130
+"braddock, pa"	"braddopa"	30
+"bradford, pa"	"bradfopa"	830
+"brainerd, mn"	"brainemn"	350
+"brawley, ca"	"brawleca"	250
+"bremerton, wa"	"bremerwa"	350
+"bridgeport, ct"	"bridgect"	10
+"bridgeton, nj"	"bridgenj"	110
+"bristol, ct"	"bristoct"	30
+"bristol, pa"	"bristopa"	170
+"brockton, ma"	"brocktma"	230
+"brookfield, il"	"brookfil"	310
+"bucyrus, oh"	"bucyruoh"	330
+"buffalo, ny"	"buffalny"	290
+"burbank, ca"	"burbanca"	370
+"burlingame, ca"	"burlinca"	810
+"burlington, ia"	"burlinia"	570
+"burlington, nj"	"burlinnj"	50
+"burlington, vt"	"burlinvt"	70
+"butler, pa"	"butlerpa"	190
+"butte, mt"	"buttemt"	930
+"cairo, il"	"cairoil"	30
+"calumet city, il"	"calumeil"	310
+"cambridge, ma"	"cambrima"	170
+"cambridge, oh"	"cambrioh"	590
+"camden, nj"	"camdennj"	70
+"campbell, oh"	"campbeoh"	990
+"canonsburg, pa"	"canonspa"	1250
+"canton, il"	"cantonil"	570
+"canton, oh"	"cantonoh"	1510
+"cape girardeau, mo"	"capegimo"	310
+"carbondale, pa"	"carbonpa"	690
+"carlisle, pa"	"carlispa"	410
+"carnegie, pa"	"carnegpa"	30
+"carteret, nj"	"carternj"	230
+"casper, wy"	"casperwy"	250
+"cedar rapids, ia"	"cedarria"	1130
+"centralia, il"	"centrail"	1210
+"centralia, il"	"centrail"	270
+"central falls, ri"	"centrari"	70
+"chambersburg, pa"	"chambepa"	550
+"champaign, il"	"champail"	190
+"chanute, ks"	"chanutks"	1330
+"charleroi, pa"	"charlepa"	1250
+"chelsea, ma"	"chelsema"	250
+"chester, pa"	"chestepa"	450
+"cheyenne, wy"	"cheyenwy"	210
+"chicago, il"	"chicagil"	310
+"chicago heights, il"	"chicagoheightsil"	310
+"chicopee, ma"	"chicopma"	130
+"chillicothe, oh"	"chillioh"	1410
+"cicero, il"	"ciceroil"	310
+"cincinnati, oh"	"cincinoh"	610
+"clairton, pa"	"clairtpa"	30
+"cleveland heights, oh"	"clevelandheightsoh"	350
+"cleveland, oh"	"cleveloh"	350
+"cliffside park, nj"	"cliffsnj"	30
+"clifton, nj"	"cliftonj"	310
+"clinton, ia"	"clintoia"	450
+"coatesville, pa"	"coatespa"	290
+"coffeyville, ks"	"coffeyks"	1250
+"cohoes, ny"	"cohoesny"	10
+"collingswood, nj"	"collinnj"	70
+"colorado springs, co"	"coloraco"	410
+"columbia, mo"	"columbmo"	190
+"columbus, oh"	"columboh"	490
+"columbia, pa"	"columbpa"	710
+"compton, ca"	"comptoca"	370
+"concord, nh"	"concornh"	130
+"connellsville, pa"	"connelpa"	510
+"connersville, in"	"connerin"	410
+"conshohocken, pa"	"conshopa"	910
+"coraopolis, pa"	"coraoppa"	30
+"corning, ny"	"corninny"	1010
+"cortland, ny"	"cortlany"	230
+"coshocton, oh"	"coshocoh"	310
+"council bluffs, ia"	"counciia"	1550
+"cranston, ri"	"cranstri"	70
+"crawfordsville, in"	"crawfoin"	1070
+"cudahy, wi"	"cudahywi"	790
+"cumberland, md"	"cumbermd"	10
+"cuyahoga falls, oh"	"cuyahooh"	1530
+"danbury, ct"	"danburct"	10
+"danville, il"	"danvilil"	1830
+"davenport, ia"	"davenpia"	1630
+"dayton, oh"	"daytonoh"	1130
+"dearborn, mi"	"dearbomi"	1630
+"decatur, il"	"decatuil"	1150
+"denver, co"	"denverco"	310
+"derby, ct"	"derbyct"	90
+"des moines, ia"	"desmoiia"	1530
+"detroit, mi"	"detroimi"	1630
+"dickson city, pa"	"dicksopa"	690
+"donora, pa"	"donorapa"	1250
+"dormont, pa"	"dormonpa"	30
+"dover, nh"	"dovernh"	170
+"dover, nj"	"dovernj"	270
+"du bois, pa"	"duboispa"	330
+"dubuque, ia"	"dubuquia"	610
+"duluth, mn"	"duluthmn"	1370
+"dunkirk, ny"	"dunkirny"	130
+"dunmore, pa"	"dunmorpa"	690
+"duquesne, pa"	"duquespa"	30
+"east chicago, in"	"eastchin"	890
+"east cleveland, oh"	"eastcloh"	350
+"east liverpool, oh"	"eastlioh"	290
+"east moline, il"	"eastmoil"	1610
+"easton, pa"	"eastonpa"	950
+"east orange, nj"	"eastornj"	130
+"east st. louis, il"	"eaststil"	1630
+"eau claire, wi"	"eauclawi"	350
+"ecorse, mi"	"ecorsemi"	1630
+"el dorado, ks"	"eldoraks"	150
+"elgin, il"	"elginil"	310
+"elgin, il"	"elginil"	890
+"elizabeth, nj"	"elizabnj"	390
+"elkhart, in"	"elkharin"	390
+"ellwood city, pa"	"ellwoopa"	730
+"ellwood city, pa"	"ellwoopa"	70
+"elmhurst, il"	"elmhuril"	430
+"elmira, ny"	"elmirany"	150
+"elmwood park, il"	"elmwooil"	310
+"elwood, in"	"elwoodin"	950
+"elyria, oh"	"elyriaoh"	930
+"emporia, ks"	"emporiks"	1110
+"endicott, ny"	"endicony"	70
+"englewood, nj"	"englewnj"	30
+"erie, pa"	"eriepa"	490
+"escanaba, mi"	"escanami"	410
+"euclid, oh"	"euclidoh"	350
+"eugene, or"	"eugeneor"	390
+"eureka, ca"	"eurekaca"	230
+"evanston, il"	"evanstil"	310
+"evansville, in"	"evansvin"	1630
+"everett, ma"	"everetma"	170
+"everett, wa"	"everetwa"	610
+"fall river, ma"	"fallrima"	50
+"fargo, nd"	"fargond"	170
+"faribault, mn"	"faribamn"	1310
+"farrell, pa"	"farrelpa"	850
+"ferndale, mi"	"ferndami"	1250
+"findlay, oh"	"findlaoh"	630
+"fitchburg, ma"	"fitchbma"	270
+"flint, mi"	"flintmi"	490
+"floral park, ny"	"floralny"	590
+"fond du lac, wi"	"fondduwi"	390
+"forest park, il"	"forestil"	310
+"fort collins, co"	"fortcoco"	690
+"fort dodge, ia"	"fortdoia"	1870
+"fort madison, ia"	"fortmaia"	1110
+"fort scott, ks"	"fortscks"	110
+"fort wayne, in"	"fortwain"	30
+"fostoria, oh"	"fostoroh"	630
+"fostoria, oh"	"fostoroh"	1470
+"frankfort, in"	"frankfin"	230
+"franklin, pa"	"franklpa"	1210
+"frederick, md"	"fredermd"	190
+"freeport, il"	"freepoil"	1770
+"freeport, ny"	"freepony"	590
+"fremont, ne"	"fremonne"	530
+"fremont, oh"	"fremonoh"	1430
+"fresno, ca"	"fresnoca"	190
+"fullerton, ca"	"fullerca"	590
+"fulton, ny"	"fultonny"	750
+"galesburg, il"	"galesbil"	950
+"gardner, ma"	"gardnema"	270
+"garfield, nj"	"garfienj"	30
+"garfield heights, oh"	"garfieoh"	350
+"gary, in"	"garyin"	890
+"geneva, ny"	"genevany"	690
+"glen cove, ny"	"glencony"	590
+"glendale, ca"	"glendaca"	370
+"glens falls, ny"	"glensfny"	1130
+"gloucester, ma"	"gloucema"	90
+"gloversville, ny"	"gloverny"	350
+"goshen, in"	"goshenin"	390
+"grand forks, nd"	"grandfnd"	350
+"grand island, ne"	"grandine"	790
+"grand junction, co"	"grandjco"	770
+"grand rapids, mi"	"grandrmi"	810
+"granite city, il"	"granitil"	1190
+"great falls, mt"	"greatfmt"	130
+"greeley, co"	"greeleco"	1230
+"green bay, wi"	"greenbwi"	90
+"greensburg, pa"	"greenspa"	1290
+"grosse pointe park, mi"	"grossemi"	1630
+"groton, ct"	"grotonct"	110
+"hackensack, nj"	"hackennj"	30
+"hagerstown, md"	"hagersmd"	410
+"hamilton, oh"	"hamiltoh"	170
+"hammond, in"	"hammonin"	890
+"hamtramck village, mi"	"hamtrami"	1630
+"hannibal, mo"	"hannibmo"	1270
+"hanover, pa"	"hanovepa"	1330
+"harrisburg, il"	"harrisil"	1650
+"harrison, nj"	"harrisnj"	170
+"harrisburg, pa"	"harrispa"	430
+"hartford, ct"	"hartfoct"	30
+"harvey, il"	"harveyil"	310
+"hastings, ne"	"hastinne"	10
+"haverhill, ma"	"haverhma"	90
+"hawthorne, nj"	"hawthonj"	310
+"hazleton, pa"	"hazletpa"	790
+"helena, mt"	"helenamt"	490
+"hempstead, ny"	"hempstny"	590
+"herkimer, ny"	"herkimny"	430
+"hibbing, mn"	"hibbinmn"	1370
+"highland park, il"	"highlail"	970
+"highland park, mi"	"highlami"	1630
+"hoboken, nj"	"hobokenj"	170
+"holland, mi"	"hollanmi"	1390
+"holyoke, ma"	"holyokma"	130
+"homestead, pa"	"homestpa"	30
+"hoquiam, wa"	"hoquiawa"	270
+"hornell, ny"	"hornelny"	1010
+"hudson, ny"	"hudsonny"	210
+"huntington beach, ca"	"huntinca"	370
+"huntington, in"	"huntinin"	690
+"huron, sd"	"huronsd"	50
+"hutchinson, ks"	"hutchiks"	1550
+"independence, ks"	"indepeks"	1250
+"independence, mo"	"indepemo"	950
+"indianapolis, in"	"indianin"	970
+"inglewood, ca"	"inglewca"	370
+"iowa city, ia"	"iowaciia"	1030
+"iron mountain, mi"	"ironmomi"	430
+"ironton, oh"	"irontooh"	870
+"ironwood, mi"	"ironwomi"	530
+"irvington, nj"	"irvingnj"	130
+"ithaca, ny"	"ithacany"	1090
+"jacksonville, il"	"jacksoil"	1370
+"jackson, mi"	"jacksomi"	750
+"jamestown , ny"	"jamestny"	130
+"janesville, wi"	"janesvwi"	1050
+"jeannette, pa"	"jeannepa"	1290
+"jeffersonville, in"	"jefferin"	190
+"jefferson city, mo"	"jeffermo"	510
+"jersey city, nj"	"jerseynj"	170
+"johnson city, ny"	"johnsony"	70
+"johnstown, ny"	"johnstny"	350
+"johnstown, pa"	"johnstpa"	210
+"joliet, il"	"jolietil"	1970
+"joplin, mo"	"joplinmo"	970
+"joplin, mo"	"joplinmo"	1450
+"kalamazoo, mi"	"kalamami"	770
+"kankakee, il"	"kankakil"	910
+"kansas city, ks"	"kansasks"	2090
+"kansas city, mo"	"kansasmo"	950
+"kearny, nj"	"kearnynj"	170
+"keene, nh"	"keenenh"	50
+"kenmore, ny"	"kenmorny"	290
+"kenosha, wi"	"kenoshwi"	590
+"kensington"	"kensinon"	1290
+"keokuk, ia"	"keokukia"	1110
+"kewanee, il"	"kewaneil"	730
+"kingston, ny"	"kingstny"	1110
+"kingston, pa"	"kingstpa"	790
+"klamath falls, or"	"klamator"	350
+"kokomo, in"	"kokomoin"	670
+"lackawanna, ny"	"lackawny"	290
+"laconia, nh"	"laconinh"	10
+"la crosse, wi"	"lacroswi"	630
+"lafayette, il"	"lafayeil"	1570
+"la grange, il"	"lagranil"	310
+"lakewood, oh"	"lakewooh"	350
+"lancaster, oh"	"lancasoh"	450
+"lancaster, pa"	"lancaspa"	710
+"lansing, mi"	"lansinmi"	650
+"la porte, in"	"laportin"	910
+"latrobe, pa"	"latrobpa"	1290
+"lawrence, ks"	"lawrenks"	450
+"lawrence, ma"	"lawrenma"	90
+"leavenworth, ks"	"leavenks"	1030
+"lebanon, pa"	"lebanopa"	750
+"leominster, ma"	"leominma"	270
+"lewiston, me"	"lewistme"	10
+"lewistown, pa"	"lewistpa"	870
+"lima, oh"	"limaoh"	30
+"lincoln, il"	"lincolil"	1070
+"lincoln park, mi"	"lincolmi"	1630
+"lincoln, ne"	"lincolne"	1090
+"linden, nj"	"lindennj"	390
+"little falls, ny"	"littleny"	430
+"lockport, ny"	"lockpony"	630
+"lodi, nj"	"lodinj"	30
+"logansport, in"	"logansin"	170
+"long beach, ca"	"longbeca"	370
+"long branch, nj"	"longbrnj"	250
+"longview, wa"	"longviwa"	150
+"lorain, oh"	"lorainoh"	930
+"los angeles, ca"	"losangca"	370
+"lowell, ma"	"lowellma"	170
+"lynbrook, ny"	"lynbrony"	590
+"lynn, ma"	"lynnma"	90
+"madison, wi"	"madisowi"	250
+"mahanoy city, pa"	"mahanopa"	1070
+"malden, ma"	"maldenma"	170
+"mamaroneck, ny"	"mamarony"	1190
+"manchester, nh"	"manchenh"	110
+"manhattan, ks"	"manhatks"	1610
+"manitowoc, wi"	"manitowi"	710
+"mankato, mn"	"mankatmn"	130
+"mansfield, oh"	"mansfioh"	1390
+"maplewood, mo"	"maplewmo"	1890
+"marietta, oh"	"marietoh"	1670
+"marinette, wi"	"marinewi"	750
+"marion, in"	"marionin"	530
+"marion, oh"	"marionoh"	1010
+"marlborough, ma"	"marlboma"	170
+"marquette, mi"	"marquemi"	1030
+"marshalltown, ia"	"marshaia"	1270
+"martins ferry, oh"	"martinoh"	130
+"mason city, ia"	"masoncia"	330
+"massena, ny"	"massenny"	890
+"massillon, oh"	"massiloh"	1510
+"mattoon, il"	"mattooil"	290
+"maywood, il"	"maywooil"	310
+"mckeesport, pa"	"mckeespa"	30
+"mckees rocks, pa"	"mckeesrockspa"	30
+"meadville, pa"	"meadvipa"	390
+"medford, ma"	"medforma"	170
+"medford, or"	"medforor"	290
+"melrose park, il"	"melrosil"	310
+"melrose, ma"	"melrosma"	170
+"menominee, mi"	"menomimi"	1090
+"meriden, ct"	"meridect"	90
+"michigan city, in"	"michigin"	910
+"middletown, ct"	"middlect"	70
+"middletown, ny"	"middleny"	710
+"middletown, oh"	"middleoh"	170
+"millville, nj"	"millvinj"	110
+"milwaukee, wi"	"milwauwi"	790
+"minneapolis, mn"	"minneamn"	530
+"minot, nd"	"minotnd"	1010
+"mishawaka, in"	"mishawin"	1410
+"missoula, mt"	"missoumt"	630
+"mitchell, sd"	"mitchesd"	350
+"moberly, mo"	"moberlmo"	1750
+"modesto, ca"	"modestca"	990
+"moline, il"	"molineil"	1610
+"monessen, pa"	"monesspa"	1290
+"monroe, mi"	"monroemi"	1150
+"monrovia, ca"	"monrovca"	370
+"montclair, nj"	"montclnj"	130
+"morristown, nj"	"morrisnj"	270
+"mount arlington, nj"	"mountanj"	270
+"mount clemens, mi"	"mountcmi"	990
+"mount carmel, pa"	"mountcpa"	970
+"mount vernon, ny"	"mountvny"	1190
+"muncie, in"	"munciein"	350
+"munhall, pa"	"munhalpa"	30
+"muscatine, ia"	"muscatia"	1390
+"muskegon, mi"	"muskegmi"	1210
+"muskegon heights, mi"	"muskegonheightsmi"	1210
+"nanticoke, pa"	"nanticpa"	790
+"nashua, nh"	"nashuanh"	110
+"naugatuck, ct"	"naugatct"	90
+"new albany, in"	"newalbin"	430
+"newark, nj"	"newarknj"	130
+"newark, oh"	"newarkoh"	890
+"new bedford, ma"	"newbedma"	50
+"new britain, ct"	"newbrict"	30
+"new brunswick, nj"	"newbrunj"	230
+"newburyport, ma"	"newburma"	90
+"newburgh, ny"	"newburny"	710
+"new castle, in"	"newcasin"	650
+"new castle, pa"	"newcaspa"	730
+"new haven, ct"	"newhavct"	90
+"new london, ct"	"newlonct"	110
+"new philadelphia, oh"	"newphioh"	1570
+"newport, ri"	"newporri"	50
+"new rochelle, ny"	"newrocny"	1190
+"newton, ia"	"newtonia"	990
+"newton, ks"	"newtonks"	790
+"newton, ma"	"newtonma"	170
+"new york, ny"	"newyorny"	810
+"new york, ny"	"newyorny"	850
+"new york, ny"	"newyorny"	470
+"new york, ny"	"newyorny"	50
+"new york, ny"	"newyorny"	610
+"niagara falls, ny"	"niagarny"	630
+"niles, mi"	"nilesmi"	210
+"niles, oh"	"nilesoh"	1550
+"norfolk, ne"	"norfolne"	1190
+"norristown borough, pa"	"norrispa"	910
+"north adams, ma"	"northama"	30
+"northampton, ma"	"northamptonma"	150
+"north braddock, pa"	"northbpa"	30
+"north bennington, vt"	"northbvt"	30
+"north platte, ne"	"northpne"	1110
+"north tonawanda, ny"	"northtny"	630
+"norwalk, ct"	"norwalct"	10
+"norwich, ct"	"norwicct"	110
+"norwood, oh"	"norwoooh"	610
+"nutley, nj"	"nutleynj"	130
+"oakland, ca"	"oaklanca"	10
+"oak park village"	"oakparge"	310
+"ogdensburg, ny"	"ogdensny"	890
+"ogden, ut"	"ogdenut"	570
+"oil city, pa"	"oilcitpa"	1210
+"old bennington, vt"	"oldbenvt"	30
+"old forge, pa"	"oldforpa"	690
+"olean, ny"	"oleanny"	90
+"olympia, wa"	"olympiwa"	670
+"olyphant, pa"	"olyphapa"	690
+"omaha, ne"	"omahane"	550
+"oneida, ny"	"oneidany"	530
+"oneonta, ny"	"oneontny"	770
+"ontario, ca"	"ontarica"	710
+"orange, nj"	"orangenj"	130
+"oshkosh, wi"	"oshkoswi"	1390
+"oskaloosa, ia"	"oskaloia"	1230
+"ossining, ny"	"ossininy"	1190
+"oswego, ny"	"oswegony"	750
+"ottawa, il"	"ottawail"	990
+"ottumwa, ia"	"ottumwia"	1790
+"owosso, mi"	"owossomi"	1550
+"painesville, oh"	"painesoh"	850
+"palo alto, ca"	"paloalca"	850
+"park ridge, il"	"parkriil"	310
+"parma, oh"	"parmaoh"	350
+"parsons, ks"	"parsonks"	990
+"pasadena, ca"	"pasadeca"	370
+"passaic, nj"	"passainj"	310
+"paterson, nj"	"patersnj"	310
+"pawtucket, ri"	"pawtucri"	70
+"peabody, ma"	"peabodma"	90
+"peekskill, ny"	"peekskny"	1190
+"pekin, il"	"pekinil"	1790
+"peoria, il"	"peoriail"	1430
+"perth amboy, nj"	"perthanj"	230
+"peru, in"	"peruin"	1030
+"philadelphia, pa"	"philadpa"	1010
+"phillipsburg, nj"	"phillinj"	410
+"phoenix, az"	"phoeniaz"	130
+"phoenixville, pa"	"phoenipa"	290
+"piqua, oh"	"piquaoh"	1090
+"pittsburg, ks"	"pittsbks"	370
+"pittsburgh, pa"	"pittsbpa"	30
+"pittsfield, ma"	"pittsfma"	30
+"pittston, pa"	"pittstpa"	790
+"plainfield, nj"	"plainfnj"	390
+"pleasantville, nj"	"pleasanj"	10
+"plymouth, pa"	"plymoupa"	790
+"pocatello, id"	"pocateid"	50
+"pomona, ca"	"pomonaca"	370
+"pontiac, mi"	"pontiami"	1250
+"port angeles, wa"	"portanwa"	90
+"port chester, ny"	"portchny"	1190
+"port huron, mi"	"porthumi"	1470
+"port jervis, ny"	"portjeny"	710
+"portland, me"	"portlame"	50
+"portland, or"	"portlaor"	510
+"portsmouth, nh"	"portsmnh"	150
+"portsmouth, oh"	"portsmoh"	1450
+"pottstown, pa"	"pottstpa"	910
+"pottsville, pa"	"pottsvpa"	1070
+"poughkeepsie, ny"	"poughkny"	270
+"providence, ri"	"providri"	70
+"provo, ut"	"provout"	490
+"pueblo, co"	"puebloco"	1010
+"quincy, il"	"quincyil"	10
+"quincy, ma"	"quincyma"	210
+"racine, wi"	"racinewi"	1010
+"rahway, nj"	"rahwaynj"	390
+"rapid city, sd"	"rapidcsd"	1030
+"reading, pa"	"readinpa"	110
+"red bank, nj"	"redbannj"	250
+"redlands, ca"	"redlanca"	710
+"reno, nv"	"renonv"	310
+"rensselaer, ny"	"rensseny"	830
+"revere, ma"	"reverema"	250
+"richmond, ca"	"richmoca"	130
+"richmond, in"	"richmoin"	1770
+"ridgefield park, nj"	"ridgefnj"	30
+"ridgewood, nj"	"ridgewnj"	30
+"river rouge, mi"	"riverrmi"	1630
+"riverside, ca"	"riversca"	650
+"rochester, mn"	"rochesmn"	1090
+"rochester, nh"	"rochesnh"	170
+"rochester, ny"	"rochesny"	550
+"rockford, il"	"rockfoil"	2010
+"rock island, il"	"rockisil"	1610
+"rockville centre, ny"	"rockviny"	590
+"rome, ny"	"romeny"	650
+"roselle, nj"	"rosellnj"	390
+"roswell, nm"	"roswelnm"	50
+"royal oak, mi"	"royalomi"	1250
+"rutherford, nj"	"ruthernj"	30
+"rutland, vt"	"rutlanvt"	210
+"sacramento, ca"	"sacramca"	670
+"saginaw, mi"	"saginami"	1450
+"saint joseph, mo"	"saintjmo"	210
+"saint louis, mo"	"saintlmo"	5100
+"saint paul, mn"	"saintpmn"	1230
+"salem, ma"	"salemma"	90
+"salem, oh"	"salemoh"	290
+"salem, or"	"salemor"	470
+"salinas, ca"	"salinaca"	530
+"salina, ks"	"salinaks"	1690
+"salisbury, md"	"salisbmd"	430
+"salt lake city, ut"	"saltlaut"	350
+"san bernardino, ca"	"sanberca"	710
+"san buenaventura (ventura), ca"	"sanbueca"	1110
+"san diego, ca"	"sandieca"	730
+"sandusky, oh"	"sandusoh"	430
+"san francisco, ca"	"sanfraca"	750
+"san jose, ca"	"sanjosca"	850
+"san leandro, ca"	"sanleaca"	10
+"san mateo, ca"	"sanmatca"	810
+"santa ana, ca"	"santaaca"	590
+"santa barbara, ca"	"santabca"	830
+"santa cruz, ca"	"santacca"	870
+"santa fe, nm"	"santafnm"	490
+"santa monica, ca"	"santamca"	370
+"santa rosa, ca"	"santarca"	970
+"saratoga springs, ny"	"saratony"	910
+"sault ste. marie, mi"	"saultsmi"	330
+"schenectedy, ny"	"scheneny"	930
+"scranton, pa"	"scrantpa"	690
+"seattle, wa"	"seattlwa"	330
+"sedalia, mo"	"sedalimo"	1590
+"shaker heights, oh"	"shakeroh"	350
+"shamokin, pa"	"shamokpa"	970
+"sharon, pa"	"sharonpa"	850
+"sheboygan, wi"	"sheboywi"	1170
+"shelbyville, in"	"shelbyin"	1450
+"shelton, ct"	"sheltoct"	10
+"shenandoah borough, pa"	"shenanpa"	1070
+"shorewood, wi"	"shorewwi"	790
+"sioux city, ia"	"siouxcia"	1930
+"sioux falls, sd"	"siouxfsd"	990
+"somerville, ma"	"somervma"	170
+"south bend, in"	"southbin"	1410
+"south gate, ca"	"southgca"	370
+"south milwaukee, wi"	"southmwi"	790
+"south orange, nj"	"southonj"	130
+"south pasadena, ca"	"southpca"	370
+"south portland, me"	"southpme"	50
+"south river, nj"	"southrnj"	230
+"spokane, wa"	"spokanwa"	630
+"springfield, il"	"springil"	1670
+"springfield, ma"	"springma"	130
+"springfield, mo"	"springmo"	770
+"springfield, oh"	"springoh"	230
+"st. charles, mo"	"st.chamo"	1830
+"st. cloud, mn"	"st.clomn"	1410
+"st. cloud, mn"	"st.clomn"	1450
+"st. cloud, mn"	"st.clomn"	90
+"stamford, ct"	"stamfoct"	10
+"steelton, pa"	"steeltpa"	430
+"sterling, il"	"sterliil"	1950
+"steubenville, oh"	"steubeoh"	810
+"stevens point, wi"	"stevenwi"	970
+"stockton, ca"	"stocktca"	770
+"stonington, ct"	"stoninct"	110
+"streator, il"	"streatil"	990
+"struthers, oh"	"struthoh"	990
+"summit, nj"	"summitnj"	390
+"sunbury, pa"	"sunburpa"	970
+"superior, wi"	"superiwi"	310
+"swissvale, pa"	"swissvpa"	30
+"syracuse, ny"	"syracuny"	670
+"tacoma, wa"	"tacomawa"	530
+"tamaqua, pa"	"tamaqupa"	1070
+"taunton, ma"	"tauntoma"	50
+"taylor, pa"	"taylorpa"	690
+"terre haute, in"	"terrehin"	1670
+"tiffin, oh"	"tiffinoh"	1470
+"toledo, oh"	"toledooh"	950
+"tonawanda, ny"	"tonawany"	290
+"topeka, ks"	"topekaks"	1770
+"torrington, ct"	"torrinct"	50
+"traverse city, mi"	"travermi"	550
+"trenton, nj"	"trentonj"	210
+"trinidad, co"	"trinidco"	710
+"troy, ny"	"troyny"	830
+"tucson, az"	"tucsonaz"	190
+"turtle creek, pa"	"turtlepa"	30
+"two rivers, wi"	"tworivwi"	710
+"union city, nj"	"unioncnj"	170
+"uniontown, pa"	"uniontpa"	510
+"university city, mo"	"univermo"	1890
+"urbana, il"	"urbanail"	190
+"utica, ny"	"uticany"	650
+"vallejo, ca"	"vallejca"	950
+"valley stream, ny"	"valleyny"	590
+"vancouver, wa"	"vancouwa"	110
+"vandergrift, pa"	"vanderpa"	1290
+"vincennes, in"	"vincenin"	830
+"virginia, mn"	"virginmn"	1370
+"walla walla, wa"	"wallawwa"	710
+"wallingford, ct"	"wallinct"	90
+"waltham, ma"	"walthama"	170
+"warren, oh"	"warrenoh"	1550
+"warren, pa"	"warrenpa"	1230
+"washington, dc"	"washindc"	10
+"washington, pa"	"washinpa"	1250
+"waterbury, ct"	"waterbct"	90
+"waterloo, ia"	"waterlia"	130
+"watertown, ny"	"watertny"	450
+"watertown, sd"	"watertsd"	290
+"watertown, wi"	"watertwi"	550
+"watertown, wi"	"watertwi"	270
+"waterville, me"	"watervme"	110
+"watervliet, ny"	"watervny"	10
+"waukegan, il"	"waukegil"	970
+"waukesha, wi"	"waukeswi"	1330
+"wausau, wi"	"wausauwi"	730
+"wauwatosa, wi"	"wauwatwi"	790
+"waynesboro, pa"	"waynespa"	550
+"webster groves, mo"	"webstemo"	1890
+"wenatchee, wa"	"wenatcwa"	70
+"west allis, wi"	"westalwi"	790
+"westbrook, me"	"westbrme"	50
+"west chester, pa"	"westchpa"	290
+"westfield, ma"	"westfima"	130
+"westfield, nj"	"westfinj"	390
+"west frankfort, il"	"westfril"	550
+"west new york, nj"	"westnenj"	170
+"west orange, nj"	"westornj"	130
+"white plains, ny"	"whitepny"	1190
+"whiting, in"	"whitinin"	890
+"whittier, ca"	"whittica"	370
+"wichita, ks"	"wichitks"	1730
+"wilkes-barre, pa"	"wilkespa"	790
+"wilkinsburg, pa"	"wilkinpa"	30
+"williamsport, pa"	"williapa"	810
+"willimantic, ct"	"willimct"	150
+"wilmette, il"	"wilmetil"	310
+"winnetka, il"	"winnetil"	310
+"winona, mn"	"winonamn"	1690
+"woburn, ma"	"woburnma"	170
+"woodmont, ct"	"woodmoct"	90
+"woonsocket, ri"	"woonsori"	70
+"wooster, oh"	"woosteoh"	1690
+"worcester, ma"	"worcesma"	270
+"wyandotte, mi"	"wyandomi"	1630
+"xenia, oh"	"xeniaoh"	570
+"yakima, wa"	"yakimawa"	770
+"yonkers, ny"	"yonkerny"	1190
+"york, pa"	"yorkpa"	1330
+"youngstown, oh"	"youngsoh"	990
+"ypsilanti, mi"	"ypsilami"	1610
+"zanesville, oh"	"zanesvoh"	1190
